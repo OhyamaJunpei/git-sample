@@ -2,7 +2,9 @@ package jp.co.sample;
 
 public class Car {
 	
+	//スピード
 	private int speed;
+	//カラー
 	private String bodyColor;
 	
 	//getter,setter
